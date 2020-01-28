@@ -1,0 +1,59 @@
+baseURL: "https://ilya-lesikov.com/"
+title: Ilya Lesikov
+copyright: Copyright © 2020 Ilya Lesikov. All Rights Reserved
+
+languageCode: en-us
+theme: hello-friend
+enableGitInfo: true
+frontmatter:
+  date:
+    - ":git"
+    - ":default"
+
+params:
+  author: Ilya Lesikov
+  subtitle: Automation Developer, DevOps, SRE
+  logo:
+    logoText: ilya lesikov
+    logoHomeLink: /
+    # path: "/img/your-example-logo.svg"
+    # alt: "Your example logo alt text"
+  # menuMore: Show more
+  # writtenBy: Written by
+  # readMore: Read more
+  # readOtherPosts: Read other posts
+  # newerPosts: Newer posts
+  # olderPosts: Older posts
+  # minuteReadingTime: min read
+  dateFormatSingle: "02-01-2006"
+  dateFormatList: "02-01-2006"
+  defaultTheme: dark
+  showReadingTime: false
+
+menu:
+  main:
+    - identifier: gke-demo
+      name: gke-demo
+      url: "https://github.com/ilya-lesikov/gke-demo"
+      pre: "jaklsdf"
+      weight: 10
+    - identifier: resume
+      name: pdf-resume
+      url: "https://github.com/ilya-lesikov/resume/raw/master/resume-DevOps-Ilya-Lesikov.pdf"
+      weight: 20
+    - identifier: archive
+      name: archive
+      url: "/archive"
+      weight: 30
+    - identifier: about
+      name: about
+      url: "/about"
+      weight: 40
+    - identifier: posts
+      name: about
+      url: "/"
+      weight: 50
+    - identifier: categories
+      name: categories
+      url: "/categories"
+      weight: 60
