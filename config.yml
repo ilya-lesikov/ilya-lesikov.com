@@ -17,8 +17,6 @@ taxonomies:
   tag: tags
 
 params:
-  languageCode: ru-ru
-  language: ru-ru
   author: Ilya Lesikov
   subtitle: Automation Developer, DevOps, SRE
   logo:
@@ -36,8 +34,8 @@ params:
   dateFormatSingle: "02-01-2006"
   dateFormatList: "02-01-2006"
   defaultTheme: dark
-  # showMenuItems: 2
   showReadingTime: false
+  # showMenuItems: 2
 
 menu:
   main:
