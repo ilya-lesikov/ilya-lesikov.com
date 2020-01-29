@@ -1,17 +1,5 @@
-+++
-title = "About"
-+++
+I'm an experienced **Automation Engineer (DevOps/SRE)**, who loves development, but still has a strong Linux SysAdmin background.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+I solve problems and make things easy (not simple). No reinventing the wheel. No overcomplicating. I know the balance between doing it right and quickly. Generally "doing it right > quickly" though. My code is clean, maintainable and extensible, autotested and documented.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+I'm ~~a nice guy~~ a good man. Easy to work with. If you care about me I care about you. Strong, balanced, informed.

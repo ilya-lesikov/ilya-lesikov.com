@@ -3,14 +3,19 @@ title: Ilya Lesikov
 copyright: Copyright © 2020 Ilya Lesikov. All Rights Reserved
 
 languageCode: en-us
+defaultContentLanguage: en-us
 theme: hello-friend
 enableGitInfo: true
 frontmatter:
   date:
     - ":git"
     - ":default"
+taxonomies:
+  tag: tags
 
 params:
+  languageCode: ru-ru
+  language: ru-ru
   author: Ilya Lesikov
   subtitle: Automation Developer, DevOps, SRE
   logo:
@@ -28,25 +33,29 @@ params:
   dateFormatSingle: "02-01-2006"
   dateFormatList: "02-01-2006"
   defaultTheme: dark
+  # showMenuItems: 2
   showReadingTime: false
 
 menu:
   main:
-    - identifier: blog
-      name: blog
-      url: "/posts"
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: "/tags"
-      weight: 20
+    # FIXME: uncomment to enable blog
+    # - identifier: blog
+    #   name: blog
+    #   url: "/posts"
+    #   weight: 10
+    # - identifier: tags
+    #   name: tags
+    #   url: "/tags"
+    #   weight: 20
     - identifier: gke-demo
       name: gke-demo
       url: "https://github.com/ilya-lesikov/gke-demo"
+      pre: _blank
       weight: 30
     - identifier: resume
       name: pdf-resume
       url: "https://github.com/ilya-lesikov/resume/raw/master/resume-DevOps-Ilya-Lesikov.pdf"
+      pre: _blank
       weight: 40
     - identifier: about
       name: about
