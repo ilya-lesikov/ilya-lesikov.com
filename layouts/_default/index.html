@@ -14,12 +14,12 @@
 
     {{ if or .Params.mailHire .Params.mailGeneral }}
     <p class="my-emails">
-    {{ if .Params.mailHire }} Hire me <i class="icon-envelope"></i>&nbsp
+    {{ if .Params.mailHire }} Hire me <i class="icon-envelope"></i>&nbsp;
       <a href="mailto:{{ .Params.mailHire }}">
         {{ .Params.mailHire }}
       </a></br>
       {{ end }}
-      {{ if .Params.mailGeneral }} General questions <i class="icon-envelope"></i>&nbsp
+      {{ if .Params.mailGeneral }} General questions <i class="icon-envelope"></i>&nbsp;
       <a href="mailto:{{ .Params.mailGeneral }}">
         {{ .Params.mailGeneral }}
       </a></br>
@@ -29,12 +29,12 @@
 
     {{ if or .Params.linkedin .Params.github }}
     <p class="my-websites">
-      {{ if .Params.linkedin }} LinkedIn <i class="icon-linkedin-sign"></i>&nbsp
+      {{ if .Params.linkedin }} LinkedIn <i class="icon-linkedin-sign"></i>&nbsp;
       <a href="https://www.linkedin.com/in/{{ .Params.linkedin }}" target="_blank">
         {{ .Params.linkedin }}
       </a></br>
       {{ end }}
-      {{ if .Params.github }} GitHub <i class="icon-github"></i>&nbsp
+      {{ if .Params.github }} GitHub <i class="icon-github"></i>&nbsp;
       <a href="https://github.com/{{ .Params.github }}" target="_blank">
         {{ .Params.github }}
       </a></br>
