@@ -1,7 +1,7 @@
 ## Develop
 
 ```bash
-hugo server
+hugo server -D
 ```
 
 ## Release
