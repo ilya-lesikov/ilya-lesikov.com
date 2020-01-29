@@ -1,0 +1,28 @@
+.post-content {
+  text-align: justify;
+}
+
+.my-websites, .my-emails {
+  text-align: right;
+}
+
+.my-emails {
+  margin-top: 1cm;
+}
+
+.footer {
+  color: #a0a0a0;
+}
+
+.dark-theme .footer {
+  color: #4c4c4c;
+}
+
+.footer .copyright--user {
+  margin: unset;
+  margin-left: auto;
+}
+
+.post-title {
+  font-size: 2.1rem;
+}
