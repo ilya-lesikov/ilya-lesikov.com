@@ -1,6 +1,9 @@
 baseURL: "https://ilya-lesikov.com/"
+googleAnalytics: "UA-157289423-1"
 title: Ilya Lesikov
-copyright: Copyright © 2020 Ilya Lesikov. All Rights Reserved
+copyright: >
+  Copyright © 2020 Ilya Lesikov. All Rights Reserved.&nbsp
+  <a href="https://github.com/ilya-lesikov/ilya-lesikov.com" target="_blank">Source code</a>
 
 languageCode: en-us
 defaultContentLanguage: en-us
@@ -55,7 +58,6 @@ menu:
     - identifier: resume
       name: pdf-resume
       url: "https://github.com/ilya-lesikov/resume/raw/master/resume-DevOps-Ilya-Lesikov.pdf"
-      pre: _blank
       weight: 40
     - identifier: about
       name: about
