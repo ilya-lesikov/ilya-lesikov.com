@@ -20,9 +20,9 @@ params:
   author: Ilya Lesikov
   subtitle: Automation Developer, DevOps, SRE
   logo:
-    logoText: ilya lesikov
+    logoText: Ilya Lesikov
     logoHomeLink: /
-    # path: "/img/your-example-logo.svg"
+    path: "img/android-chrome-192x192.png"
     # alt: "Your example logo alt text"
   # menuMore: Show more
   # writtenBy: Written by
