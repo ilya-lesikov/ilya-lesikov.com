@@ -23,7 +23,7 @@ params:
     logoText: Ilya Lesikov
     logoHomeLink: /
     path: "img/android-chrome-192x192.png"
-    # alt: "Your example logo alt text"
+    alt: "logo"
   # menuMore: Show more
   # writtenBy: Written by
   # readMore: Read more
