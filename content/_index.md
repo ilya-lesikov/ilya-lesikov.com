@@ -19,6 +19,6 @@ I'm ~~a nice guy~~ a good man. Easy to work with. If you care about me I care ab
 
 ## Status
 
-Looking for a job just now. \
+**Open** to opportunities. \
 Remote-only. Citizen of Russia, UTC+3. \
 [hire@lesikov.com](mailto:hire@lesikov.com)
