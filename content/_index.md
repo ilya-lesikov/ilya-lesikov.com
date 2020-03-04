@@ -9,9 +9,11 @@ github: "ilya-lesikov"
 
 ---
 
-I'm a **DevOps Engineer/SRE**. I have no education and my real-world experience may be not that impressive, but I'm definitely better than you might think (check out my [GitHub](https://github.com/ilya-lesikov/gke-demo)). My main strength is resilient, scalable, observable infrastructure through extensive but maintainable automation. I have more of a developer mindset, still a seasoned Linux SysAdmin.
+Hey, I'm a **DevOps Engineer/SRE**.
 
-I solve problems and make things easy (not simple). No reinventing the wheel. No overcomplicating. I know the balance between doing it right and quickly. Generally "doing it right > quickly" though. My code is clean, maintainable and extensible, autotested and documented.
+I'm self-taught and my real-world experience may be not that impressive, but don't be so skeptical — I'm better than you might think. My main strength is resilient, scalable, observable infrastructure through extensive but maintainable automation.
+
+I solve problems and make things easy (not simple). No reinventing the wheel. No overcomplicating. I know the balance between doing it right and quickly. Generally "doing it right > quickly" though. My code is clean, maintainable and extensible, autotested and documented. I have more of a developer mindset, still a seasoned Linux SysAdmin.
 
 I'm a good man. Easy to work with. Strong, balanced, informed.
 
