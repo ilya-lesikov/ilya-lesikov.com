@@ -11,7 +11,7 @@ github: "ilya-lesikov"
 
 Hey, I'm a **DevOps Engineer/SRE**.
 
-I'm self-taught and my real-world experience may be not that impressive, but don't be so skeptical — I'm better than you might think. My main strength is resilient, scalable, observable infrastructure through extensive but maintainable automation.
+I'm self-taught and my real-world experience may be not that impressive, but I'm better than you might think. My main strength is resilient, scalable, observable infrastructure through extensive but maintainable automation.
 
 I solve problems and make things easy (not simple). No reinventing the wheel. No overcomplicating. I know the balance between doing it right and quickly. Generally "doing it right > quickly" though. My code is clean, maintainable and extensible, autotested and documented. I have more of a developer mindset, still a seasoned Linux SysAdmin.
 
