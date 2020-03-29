@@ -18,3 +18,8 @@ I solve problems and make things easy (not simple). No reinventing the wheel. No
 I'm a good man. Easy to work with. Strong, balanced, informed.
 
 [Download](https://github.com/ilya-lesikov/resume/raw/master/resume-DevOps-Ilya-Lesikov.pdf) my resume in pdf.
+
+## Status
+
+DevOps Engineer at [Flant](https://github.com/flant). \
+[hire@lesikov.com](mailto:hire@lesikov.com)
