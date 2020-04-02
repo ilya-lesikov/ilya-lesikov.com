@@ -21,5 +21,4 @@ I'm a good man. Easy to work with. Strong, balanced, informed.
 
 ## Status
 
-DevOps Engineer at [Flant](https://github.com/flant). \
-[hire@lesikov.com](mailto:hire@lesikov.com)
+Working as a DevOps Engineer at [Flant](https://github.com/flant).
